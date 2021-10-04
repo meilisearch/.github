@@ -84,3 +84,8 @@ We think chat and forum discussions are [highly complementary](https://blog.disc
 ### GitHub issues 🔩
 
 Bugs should be reported as issues in the corresponding repository, e.g., [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch/issues), [meilisearch/documentation](https://github.com/meilisearch/documentation/issues), and so forth.
+
+
+## We are hiring! 🌍
+
+You can check the open positions on [this page](https://jobs.lever.co/meili).
