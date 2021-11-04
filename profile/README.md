@@ -8,18 +8,6 @@
 
 MeiliSearch is a young company based in Paris. From the outset, our goal is a simple and intuitive experience for both developers and end-users. To know more about us, you can read our [blog](https://blog.meilisearch.com/).
 
-## 💻 Hacktoberfest
-
-It's Hacktoberfest month!!! 🥳 [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a great way to contribute to open-source projects. 
-
-You can participate by submitting a PR to any repository with the `hacktoberfest` label on it:
-- Find an issue and start contributing! 
-- Don't forget to read carefully the `CONTRIBUTING.md` file or the `Contributing` section of the `README.md` before submitting your PR.
-
-MeiliSearch participates for the second year in a row. You can learn more in this [blog post](https://blog.meilisearch.com/contribute-hacktoberfest-2021/). 
-
-
-
 ## 🔎 MeiliSearch
 
 Our main repository is [MeiliSearch](https://github.com/meilisearch/MeiliSearch). The code in this repository is only concerned with  exposing the HTTP API, managing multiple indexes, and handling the update store.
