@@ -1,25 +1,25 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/meilisearch/devrel/main/assets/meilisearch-icon.svg" alt="MeiliSearch" width="200" height="200" />
+  <img src="https://github.com/meilisearch/meilisearch/blob/main/assets/logo.svg" alt="Meilisearch" width="200" height="200" />
 </p>
 
-<h1 align="center">MeiliSearch</h1>
+<h1 align="center">Meilisearch</h1>
 
-👋  Hi! This is MeiliSearch, an open-source, easy-to-use, blazingly fast, and hyper-relevant search engine built in Rust.
+👋  Hi! This is Meilisearch, an open-source, easy-to-use, blazingly fast, and hyper-relevant search engine built in Rust.
 
-MeiliSearch is a young company based in Paris. From the outset, our goal is a simple and intuitive experience for both developers and end-users. To know more about us, you can read our [blog](https://blog.meilisearch.com/).
+Meilisearch is a young company based in Paris. From the outset, our goal is a simple and intuitive experience for both developers and end-users. To know more about us, you can read our [blog](https://blog.meilisearch.com/).
 
-## 🔎 MeiliSearch
+## 🔎 Meilisearch
 
-Our main repository is [MeiliSearch](https://github.com/meilisearch/MeiliSearch). The code in this repository is only concerned with  exposing the HTTP API, managing multiple indexes, and handling the update store.
+Our main repository is [Meilisearch](https://github.com/meilisearch/meilisearch). The code in this repository is only concerned with  exposing the HTTP API, managing multiple indexes, and handling the update store.
 
 Search and indexation are the domain of our core engine, [milli](https://github.com/meilisearch/milli/), while our [tokenizer library](https://github.com/meilisearch/Tokenizer) handles tokenization.
 
-You can learn more about MeiliSearch and its features in our [documentation](https://docs.meilisearch.com). 
+You can learn more about Meilisearch and its features in our [documentation](https://docs.meilisearch.com). 
 
 
 ## 🔗 Integrations 
 
-Our team and community have worked hard to bring MeiliSearch to almost all popular web development languages, frameworks, and deployment options. New integrations are constantly in development. Check the complete list in [the integration guides](https://github.com/meilisearch/integration-guides).
+Our team and community have worked hard to bring Meilisearch to almost all popular web development languages, frameworks, and deployment options. New integrations are constantly in development. Check the complete list in [the integration guides](https://github.com/meilisearch/integration-guides).
 
 ## 📚 Documentation 
 
@@ -27,7 +27,7 @@ Our [documentation website](https://docs.meilisearch.com) is hosted in a [public
 
 ## 🤝 Contributing 
 
-Hey! We're glad you're thinking about contributing to MeiliSearch! Feel free to pick an issue labeled as `good first issue` and  ask any question you need. Some points might not be clear, and we are available to help you!
+Hey! We're glad you're thinking about contributing to Meilisearch! Feel free to pick an issue labeled as `good first issue` and  ask any question you need. Some points might not be clear, and we are available to help you!
 
 Before creating your PR, we strongly encourage you to read the repository's corresponding`CONTRIBUTING.md` or otherwise the "Contributing" section of the `README.md`.
 
