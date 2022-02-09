@@ -1,8 +1,8 @@
 # Security
 
-MeiliSearch takes the security of our software products and services seriously.
+Meilisearch takes the security of our software products and services seriously.
 
-If you believe you have found a security vulnerability in any MeiliSearch-owned repository, please report it to us as described below.
+If you believe you have found a security vulnerability in any Meilisearch-owned repository, please report it to us as described below.
 
 ## Reporting security issues
 

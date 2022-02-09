@@ -17,7 +17,7 @@ Looking for answers? Visit our [FAQ page](https://docs.meilisearch.com/faq.html)
 
 ### 📋&ensp;Forum 
 
-Our preferred method of communication is our forums on [GitHub Discussions](https://github.com/meilisearch/MeiliSearch/discussions). Asynchronous long-form discussion communication with minimal repetition. Maybe your question has already been answered there!
+Our preferred method of communication is our forums on [GitHub Discussions](https://github.com/meilisearch/meilisearch/discussions). Asynchronous long-form discussion communication with minimal repetition. Maybe your question has already been answered there!
 
 ### 💬&ensp;Chat 
 
@@ -31,7 +31,7 @@ Help us help you!
 
 Please, give as much information as possible. At least, try to provide the following information (when applicable):
 
-- MeiliSearch version
+- Meilisearch version
 - SDK used and its version
 - Detailed steps to reproduce the issue
 - OS (e.g. Debian GNU/Linux)
