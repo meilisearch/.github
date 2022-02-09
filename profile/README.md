@@ -44,11 +44,11 @@ Any suggestion or feedback is highly appreciated. Thank you so much for your sup
 
 If you want to know more about how we handle Developer Relations at MeiliSearch: our processes, activities, and plans, you can check our [devrel repo](https://github.com/meilisearch/devrel).
 
-We invite you to join our [MeiliSearch Community Slack](https://slack.meilisearch.com/), where you can find support from our team and the community, but where you can also share your projects or just talk about random stuff with other members of the MeiliSearch community 😁
+We invite you to join our [Meilisearch Community Slack](https://slack.meilisearch.com/), where you can find support from our team and the community, but where you can also share your projects or just talk about random stuff with other members of the Meilisearch community 😁
 
 ## 🖥 Demos 
 
-Do you want to see MeiliSearch in action? Check the list of our demos [in the dedicated repository](https://github.com/meilisearch/demos). 
+Do you want to see Meilisearch in action? Check the list of our demos [in the dedicated repository](https://github.com/meilisearch/demos). 
 
 
 ## 💌 Contact
@@ -58,7 +58,7 @@ Do you want to see MeiliSearch in action? Check the list of our demos [in the de
 
 Our preferred method of communication is our forums on GitHub Discussions. Asynchronous long-form discussion communication with minimal repetition.
 
-Your project announcements, support queries, and sweet, sweet praise all belong in the [MeiliSearch forum]((https://github.com/meilisearch/MeiliSearch/discussions)).
+Your project announcements, support queries, and sweet, sweet praise all belong in the [Meilisearch forum]((https://github.com/meilisearch/Meilisearch/discussions)).
 
 
 For feature proposals, you can go to the [Product forum](https://github.com/meilisearch/product/discussions).
@@ -71,7 +71,7 @@ We think chat and forum discussions are [highly complementary](https://blog.disc
 
 ### GitHub issues 🔩
 
-Bugs should be reported as issues in the corresponding repository, e.g., [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch/issues), [meilisearch/documentation](https://github.com/meilisearch/documentation/issues), and so forth.
+Bugs should be reported as issues in the corresponding repository, e.g., [meilisearch/Meilisearch](https://github.com/meilisearch/Meilisearch/issues), [meilisearch/documentation](https://github.com/meilisearch/documentation/issues), and so forth.
 
 
 ## We are hiring! 🌍

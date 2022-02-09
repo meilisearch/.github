@@ -10,4 +10,4 @@ Please check if your PR fulfills the following requirements:
 - [ ] Have you read the contributing guidelines?
 - [ ] Have you made sure that the title is accurate and descriptive of the changes?
 
-Thank you so much for contributing to MeiliSearch!
+Thank you so much for contributing to Meilisearch!
