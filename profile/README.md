@@ -73,6 +73,9 @@ We think chat and forum discussions are [highly complementary](https://blog.disc
 
 Bugs should be reported as issues in the corresponding repository, e.g., [meilisearch/Meilisearch](https://github.com/meilisearch/Meilisearch/issues), [meilisearch/documentation](https://github.com/meilisearch/documentation/issues), and so forth.
 
+## 🛡️ Security
+
+Meilisearch takes the security of our software products and services seriously. If you believe you have found a security vulnerability in any Meilisearch-owned repository, please report it to us as described in our [security policy](https://github.com/meilisearch/.github/security/policy).
 
 ## We are hiring! 🌍
 
