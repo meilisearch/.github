@@ -1,7 +1,10 @@
 # Pull Request
 
-## What does this PR do?
+## Related issue
 Fixes #<issue_number>
+
+## What does this PR do?
+- ...
 
 ## PR checklist
 Please check if your PR fulfills the following requirements:
