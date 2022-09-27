@@ -1,6 +1,6 @@
 # Hacktoberfest 2022 contributors guidelines
 
-Just as we’re getting ready for the Hacktoberfest 2022 hype, allow us to remind you of a few guidelines to follow to make sure the event goes smoothly for everyone. These guidelines are there to support the already existing ones available on Hacktoberfest's [](https://hacktoberfest.digitalocean.com/resources)[official website](https://hacktoberfest.com). 
+Just as we’re getting ready for the Hacktoberfest 2022 hype, allow us to remind you of a few guidelines to follow to ensure the event goes smoothly for everyone. These guidelines support the existing ones available on [Hacktoberfest's official website] (https://hacktoberfest.digitalocean.com/resources).
 
 📜 Hacktoberfest is a highly intense time for both organisers and participants. To optimise time and ensure we can get to your PR in the best possible delays, we won’t focus on the PR that don’t meet the quality standards shared on this year’s Hacktoberfest [website](https://hacktoberfest.com/participation/#spam). Indeed, the significant number of entries will force us to prioritise our tasks as we hope to review as much of our contributors’ hard work as possible.
 
