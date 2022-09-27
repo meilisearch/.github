@@ -12,4 +12,4 @@ Just as we’re getting ready for the Hacktoberfest 2022 hype, allow us to remin
 
 🚅 As it can happen at times, people ask to be assigned specific PRs and never come back, which discourages the volunteer contributors from opening a PR to fix this issue. To avoid these unfortunate instances, we do not assign PRs to people. We will accept and merge the first PR that correctly fixes and implements the issue following our [contributing guidelines](https://github.com/meilisearch/meilisearch-dotnet/blob/main/CONTRIBUTING.md). If you know there’s a specific issue you really want to work on, we can only encourage you to get to it as soon as possible and do your best! 
 
-We can’t wait to review your PRs.
+We can’t wait to review your PRs!
