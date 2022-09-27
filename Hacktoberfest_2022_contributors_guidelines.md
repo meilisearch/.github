@@ -4,7 +4,7 @@ Just as we’re getting ready for the Hacktoberfest 2022 hype, allow us to remin
 
 📜 Hacktoberfest is an intense time for both organizers and participants. To optimize time and ensure we get to your PR without delay, we won’t focus on PRs that don’t meet the [quality standards](https://hacktoberfest.com/participation/#spam) shared on this year’s Hacktoberfest website. The significant number of entries will force us to prioritize our tasks as we hope to review our contributors’ hard work as much as possible.
 
-🔍 In addition to that, and to respect our team's work and the time they invest in reviewing your contributions, please make sure to incorporate all the feedback they have already offered before asking for additional feedback. If any of the comments they shared are unclear to you, please feel free to ask for clarification. Still, our team won't review again a PR that didn't take the globality of the initial feedback into account during the revision.
+🔍 To respect our team's work and the time they invest in reviewing your contributions, please ensure you incorporate all the feedback they have offered before asking for additional feedback. If any of the comments they share are unclear, please feel free to ask for clarification. Our team won't re-review a PR that doesn't consider the initial feedback during the revision.
 
 ⏰ We couldn’t be more pleased to see a high number of contributions! We kindly request your patience with us; we will focus on reviewing your PRs from Monday to Thursday, during usual working hours, CEST time. If you’re outside that timeframe, please don’t panic; we will get to yours soon.
 
