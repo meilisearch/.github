@@ -8,7 +8,9 @@ Just as we’re getting ready for the Hacktoberfest 2022 hype, allow us to remin
 
 ⏰ We couldn’t be more pleased to see a high number of contributions! We kindly request your patience with us; we will focus on reviewing your PRs from Monday to Thursday, during working hours, CEST time. If you’re outside this time zone, please don’t panic; we will get to yours soon.
 
-👑 October is a special time to celebrate the open source community and its contributors; coding contributions are more than welcome. Non-coding contributions will be right at home in the [Awesome Meilisearch](https://github.com/meilisearch/awesome-meilisearch) repo. Documentation PRs will not be opened this time around, as we feel like Hacktoberfest might not be the most relevant time of the year for them.
+👑 October is a special time to celebrate the open source community and its contributors; coding contributions are more than welcome. Non-coding contributions will be right at home in the [Awesome Meilisearch](https://github.com/meilisearch/awesome-meilisearch) repo. We will not be accepting any PRs for the documentation repo, as we feel Hacktoberfest might not be the most appropriate time for them.
+
+[Here's]( https://github.com/search?q=org%3Ameilisearch+topic%3Ahacktoberfest&type=Repositories) the list of all our repositories accepting contributions. 
 
 🚅 As it can happen sometimes, people ask to be assigned specific issues but never get back. This discourages other contributors from opening PRs to fix the issue. To avoid this situation, we do not assign PRs to people. We will accept and merge the first PR that correctly fixes and implements the issue following our [contributing guidelines](https://github.com/meilisearch/meilisearch-dotnet/blob/main/CONTRIBUTING.md). If you know there’s a specific issue you really want to work on; we can only encourage you to get to it as soon as possible and do your best! 
 
