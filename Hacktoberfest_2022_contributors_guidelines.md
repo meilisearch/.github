@@ -8,7 +8,7 @@ Just as we’re getting ready for the Hacktoberfest 2022 hype, allow us to remin
 
 ⏰ We couldn’t be more pleased to see a high number of contributions! We kindly request your patience with us; we will focus on reviewing your PRs from Monday to Thursday, during working hours, CEST time. If you’re outside this time zone, please don’t panic; we will get to yours soon.
 
-👑 October is a special time to celebrate the open source community and its contributors; coding contributions are more than welcome. Non-coding contributions will be right at home in the [Awesome Meilisearch](https://github.com/meilisearch/awesome-meilisearch) repo. We will not be accepting any PRs for the documentation repo, as we feel Hacktoberfest might not be the most appropriate time for them.
+👑 October is a special time to celebrate the open source community and its contributors; coding contributions are more than welcome. Non-coding contributions will be right at home in the [Awesome Meilisearch](https://github.com/meilisearch/awesome-meilisearch) repo. PRs in our documentation repo will not be accepted for Hacktoberfest credit, although you're still welcome to make a contribution.
 
 [Here's]( https://github.com/search?q=org%3Ameilisearch+topic%3Ahacktoberfest&type=Repositories) the list of all our repositories accepting contributions and [here]( https://github.com/search?q=org%3Ameilisearch+label%3Ahacktoberfest&state=open&type=Issues) you can find all the issues eligible for the event. 
 
