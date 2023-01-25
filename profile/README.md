@@ -44,7 +44,7 @@ Any suggestion or feedback is highly appreciated. Thank you so much for your sup
 
 If you want to know more about how we handle Developer Relations at MeiliSearch: our processes, activities, and plans, you can check our [devrel repo](https://github.com/meilisearch/devrel).
 
-We invite you to join our [Meilisearch Community Slack](https://slack.meilisearch.com/), where you can find support from our team and the community, but where you can also share your projects or just talk about random stuff with other members of the Meilisearch community 😁
+We invite you to join our [Meilisearch Community Discord](https://discord.gg/meilisearch), where you can find support from our team and the community, but where you can also share your projects or just talk about random stuff with other members of the Meilisearch community 😁
 
 ## 🖥 Demos 
 
@@ -65,7 +65,7 @@ For feature proposals, you can go to the [Product forum](https://github.com/meil
 
 ### Chat 💬
 
-Prefer the speed and fluidity of chat? Then join our [Slack community](https://slack.meilisearch.com/).
+Prefer the speed and fluidity of chat? Then join our [Discord community](https://discord.gg/meilisearch).
 
 We think chat and forum discussions are [highly complementary](https://blog.discourse.org/2018/04/effectively-using-discourse-together-with-group-chat/), happily co-existing as two different modes of conversation. Try to use the right tool for the job, but most importantly, we just want to hear from you, regardless of the medium!
 
