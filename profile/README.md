@@ -29,7 +29,7 @@ Our [documentation website](https://docs.meilisearch.com) is hosted in a [public
 
 Hey! We're glad you're thinking about contributing to Meilisearch! Feel free to pick an issue labeled as `good first issue` and  ask any question you need. Some points might not be clear, and we are available to help you!
 
-Before creating your PR, we strongly encourage you to read the repository's corresponding`CONTRIBUTING.md` or otherwise the "Contributing" section of the `README.md`.
+Before creating your PR, we strongly encourage you to read the repository's corresponding `CONTRIBUTING.md` or otherwise the "Contributing" section of the `README.md`.
 
 ## 💡 Product: feedback & suggestions 
 
@@ -77,6 +77,6 @@ Bugs should be reported as issues in the corresponding repository, e.g., [meilis
 
 Meilisearch takes the security of our software products and services seriously. If you believe you have found a security vulnerability in any Meilisearch-owned repository, please report it to us as described in our [security policy](https://github.com/meilisearch/.github/security/policy).
 
-## We are hiring! 🌍
+## 🌍 We are hiring!
 
 You can check the open positions on [this page](https://jobs.lever.co/meili).
