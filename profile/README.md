@@ -6,7 +6,7 @@
 
 👋  Hi! This is Meilisearch, an open-source, easy-to-use, blazingly fast, and hyper-relevant search engine built in Rust.
 
-Meilisearch is a young company based in Paris. From the outset, our goal is a simple and intuitive experience for both developers and end-users. To know more about us, you can read our [blog](https://blog.meilisearch.com/).
+Meilisearch is a search engine created by [Meili](https://www.welcometothejungle.com/en/companies/meilisearch), a software development company based in France and with team members all over the world. Want to know more about us? Check out our [blog](https://blog.meilisearch.com/)!
 
 ## 🔎 Meilisearch
 
@@ -16,10 +16,11 @@ Search and indexation are the domain of our core engine, [milli](https://github.
 
 You can learn more about Meilisearch and its features in our [documentation](https://docs.meilisearch.com). 
 
-
 ## 🔗 Integrations 
 
-Our team and community have worked hard to bring Meilisearch to almost all popular web development languages, frameworks, and deployment options. New integrations are constantly in development. Check the complete list in [the integration guides](https://github.com/meilisearch/integration-guides).
+Install one of our SDKs in your project for seamless integration between Meilisearch and your favorite language or framework!
+
+Take a look at the complete [Meilisearch integration list](https://meilisearch.com/docs/learn/what_is_meilisearch/sdks).
 
 ## 📚 Documentation 
 
