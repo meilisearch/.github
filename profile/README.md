@@ -49,30 +49,23 @@ We invite you to join our [Meilisearch Community Discord](https://discord.gg/mei
 
 ## 🖥 Demos 
 
-Do you want to see Meilisearch in action? Check the list of our demos [in the dedicated repository](https://github.com/meilisearch/demos). 
+Do you want to see Meilisearch in action? 
+
+🔥 [**Try it!**](https://where2watch.meilisearch.com/) 🔥
+
+Check the list of all our demos [in the dedicated repository](https://github.com/meilisearch/demos). 
 
 
-## 💌 Contact
+## 📫 Get in touch!
 
+🗞 [Subscribe to our newsletter](https://meilisearch.us2.list-manage.com/subscribe?u=27870f7b71c908a8b359599fb&id=79582d828e) if you don't want to miss any updates! We promise we won't clutter your mailbox: we only send one edition every two months.
 
-### Forum 📋
+💌 Want to make a suggestion or give feedback? Here are some of the channels where you can reach us:
 
-Our preferred method of communication is our forums on GitHub Discussions. Asynchronous long-form discussion communication with minimal repetition.
+- For feature requests, please visit our [product repository](https://github.com/meilisearch/product/discussions)
+- Found a bug? Open an issue in the corresponding repository, e.g., [meilisearch/Meilisearch](https://github.com/meilisearch/Meilisearch/issues), [meilisearch/documentation](https://github.com/meilisearch/documentation/issues), and so forth.
+- Want to be part of our Discord community? [Join us!](https://discord.gg/meilisearch)
 
-Your project announcements, support queries, and sweet, sweet praise all belong in the [Meilisearch forum]((https://github.com/meilisearch/Meilisearch/discussions)).
-
-
-For feature proposals, you can go to the [Product forum](https://github.com/meilisearch/product/discussions).
-
-### Chat 💬
-
-Prefer the speed and fluidity of chat? Then join our [Discord community](https://discord.gg/meilisearch).
-
-We think chat and forum discussions are [highly complementary](https://blog.discourse.org/2018/04/effectively-using-discourse-together-with-group-chat/), happily co-existing as two different modes of conversation. Try to use the right tool for the job, but most importantly, we just want to hear from you, regardless of the medium!
-
-### GitHub issues 🔩
-
-Bugs should be reported as issues in the corresponding repository, e.g., [meilisearch/Meilisearch](https://github.com/meilisearch/Meilisearch/issues), [meilisearch/documentation](https://github.com/meilisearch/documentation/issues), and so forth.
 
 ## 🛡️ Security
 
