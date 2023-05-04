@@ -4,7 +4,7 @@
 
 <h1 align="center">Meilisearch</h1>
 
-👋  Hi! This is Meilisearch, an open-source, easy-to-use, blazingly fast, and hyper-relevant search engine built in Rust.
+👋  Hi! This is Meilisearch, a lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 
 Meilisearch is a search engine created by [Meili](https://www.welcometothejungle.com/en/companies/meilisearch), a software development company based in France and with team members all over the world. Want to know more about us? Check out our [blog](https://blog.meilisearch.com/)!
 
