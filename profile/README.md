@@ -6,15 +6,15 @@
 
 👋  Hi! This is Meilisearch, a lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 
-Meilisearch is a search engine created by [Meili](https://www.welcometothejungle.com/en/companies/meilisearch), a software development company based in France and with team members all over the world. Want to know more about us? Check out our [blog](https://blog.meilisearch.com/)!
+Meilisearch is a search engine created by [Meilisearch](https://www.welcometothejungle.com/en/companies/meilisearch), a software development company based in France and with team members all over the world. Want to know more about us? Check out our [blog](https://blog.meilisearch.com/)!
 
 ## 🔎 Meilisearch
 
 Our main repository is [Meilisearch](https://github.com/meilisearch/meilisearch). The code in this repository is only concerned with  exposing the HTTP API, managing multiple indexes, and handling the update store.
 
-Search and indexation are the domain of our core engine, [milli](https://github.com/meilisearch/milli/), while our [tokenizer library](https://github.com/meilisearch/Tokenizer) handles tokenization.
+Search and indexation are the domain of our core engine, [milli](https://github.com/meilisearch/milli/), while [Charabia](https://github.com/meilisearch/charabia), our tokenizer library, handles tokenization.
 
-You can learn more about Meilisearch and its features in our [documentation](https://docs.meilisearch.com). 
+You can learn more about Meilisearch and its features in our [documentation](https://www.meilisearch.com/docs). 
 
 ## 🔗 Integrations 
 
@@ -24,7 +24,7 @@ Take a look at the complete [Meilisearch integration list](https://meilisearch.c
 
 ## 📚 Documentation 
 
-Our [documentation website](https://docs.meilisearch.com) is hosted in a [public GitHub repository](https://github.com/meilisearch/documentation).
+Our [documentation website](https://www.meilisearch.com/docs) is hosted in a [public GitHub repository](https://github.com/meilisearch/documentation).
 
 ## 🤝 Contributing 
 
