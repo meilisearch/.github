@@ -12,7 +12,7 @@ Meilisearch is a search engine created by [Meilisearch](https://www.welcometothe
 
 Our main repository is [Meilisearch](https://github.com/meilisearch/meilisearch). The code in this repository is only concerned with  exposing the HTTP API, managing multiple indexes, and handling the update store.
 
-Search and indexation are the domain of our core engine, [milli](https://github.com/meilisearch/milli/), while [Charabia](https://github.com/meilisearch/charabia), our tokenizer library, handles tokenization.
+Search and indexation are the domain of our core engine, [milli](https://github.com/meilisearch/meilisearch/tree/main/milli), while [Charabia](https://github.com/meilisearch/charabia), our tokenizer library, handles tokenization.
 
 You can learn more about Meilisearch and its features in our [documentation](https://www.meilisearch.com/docs). 
 
