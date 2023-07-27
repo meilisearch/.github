@@ -22,6 +22,10 @@ Install one of our SDKs in your project for seamless integration between Meilise
 
 Take a look at the complete [Meilisearch integration list](https://meilisearch.com/docs/learn/what_is_meilisearch/sdks).
 
+## ⚡ Supercharge your Meilisearch experience
+
+Say goodbye to server deployment and manual updates with [Meilisearch Cloud](https://www.meilisearch.com/cloud?utm_campaign=oss&utm_source=github&utm_medium=organization). Get started with a 14-day free trial! No credit card required.
+
 ## 📚 Documentation 
 
 Our [documentation website](https://www.meilisearch.com/docs) is hosted in a [public GitHub repository](https://github.com/meilisearch/documentation).
