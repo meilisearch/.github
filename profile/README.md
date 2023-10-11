@@ -47,7 +47,7 @@ Any suggestion or feedback is highly appreciated. Thank you so much for your sup
 
 ## 🥰 Community & Developer Relations 
 
-If you want to know more about how we handle Developer Relations at MeiliSearch: our processes, activities, and plans, you can check our [devrel repo](https://github.com/meilisearch/devrel).
+If you want to know more about how we handle Developer Relations at Meilisearch: our processes, activities, and plans, you can check our [devrel repo](https://github.com/meilisearch/devrel).
 
 We invite you to join our [Meilisearch Community Discord](https://discord.gg/meilisearch), where you can find support from our team and the community, but where you can also share your projects or just talk about random stuff with other members of the Meilisearch community 😁
 
