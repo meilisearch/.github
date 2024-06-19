@@ -51,14 +51,12 @@ If you want to know more about how we handle Developer Relations at Meilisearch:
 
 We invite you to join our [Meilisearch Community Discord](https://discord.gg/meilisearch), where you can find support from our team and the community, but where you can also share your projects or just talk about random stuff with other members of the Meilisearch community 😁
 
-## 🖥 Demos 
+## 🖥 Demos
+- [**Where2Watch:**](https://where2watch.meilisearch.com/?utm_campaign=oss&utm_source=github&utm_medium=meilisearch&utm_content=demo-link) Find the movie you will watch tonight through an up-to-date IMDb dataset, [featuring Hybrid Search](https://meilisearch.notion.site/Where2Watch-Noticeable-Queries-881f6270abef4452a94255462df740d7).
+- [**Millions of Musics:**](https://music.meilisearch.com/?utm_campaign=oss&utm_source=github&utm_medium=meilisearch&utm_content=demo-link) Search throught a 47 millions musics and artists dataset.
+- [**Tenant Tokens:**](https://tenant-token.meilisearch.com/?utm_campaign=oss&utm_source=github&utm_medium=meilisearch&utm_content=demo-link) Experience the search with restricted results that leverage the use of tenant tokens.
 
-Do you want to see Meilisearch in action? 
-
-🔥 [**Try it!**](https://where2watch.meilisearch.com/) 🔥
-
-Check the list of all our demos [in the dedicated repository](https://github.com/meilisearch/demos). 
-
+Check the list of all our demos [in the dedicated repository](https://github.com/meilisearch/demos).
 
 ## 📫 Get in touch!
 
