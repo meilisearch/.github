@@ -4,9 +4,9 @@
 
 <h1 align="center">Meilisearch</h1>
 
-👋  Hi! This is Meilisearch, a lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
+👋 Hi! Welcome to the [Meilisearch](https://meilisearch.com?utm_campaign=oss&utm_source=github&utm_medium=organization) organization! [Meilisearch](https://github.com/meilisearch/meilisearch) is a lightning-fast search engine that fits effortlessly into your apps, websites, and workflow. 
 
-Meilisearch is a search engine created by [Meilisearch](https://www.welcometothejungle.com/en/companies/meilisearch), a software development company based in France and with team members all over the world. Want to know more about us? Check out our [blog](https://blog.meilisearch.com/)!
+We're a software development company based in France and with team members all over the world. Want to know more about us? Check out our [blog](https://blog.meilisearch.com/?utm_campaign=oss&utm_source=github&utm_medium=organization)!
 
 ## 🔎 Meilisearch
 
@@ -14,13 +14,11 @@ Our main repository is [Meilisearch](https://github.com/meilisearch/meilisearch)
 
 Search and indexation are the domain of our core engine, [milli](https://github.com/meilisearch/meilisearch/tree/main/milli), while [Charabia](https://github.com/meilisearch/charabia), our tokenizer library, handles tokenization.
 
-You can learn more about Meilisearch and its features in our [documentation](https://www.meilisearch.com/docs). 
+You can learn more about Meilisearch and its features in our [documentation](https://www.meilisearch.com/docs?utm_campaign=oss&utm_source=github&utm_medium=organization). 
 
-## 🔗 Integrations 
+## 🔌 SDKs & Integrations 
 
-Install one of our SDKs in your project for seamless integration between Meilisearch and your favorite language or framework!
-
-Take a look at the complete [Meilisearch integration list](https://meilisearch.com/docs/learn/what_is_meilisearch/sdks).
+Meilisearch provides SDKs for all major languages and frameworks. Take a look at the list of our SDKs: [Meilisearch SDKs](https://meilisearch.com/docs/learn/what_is_meilisearch/sdks?utm_campaign=oss&utm_source=github&utm_medium=organization).
 
 ## ⚡ Supercharge your Meilisearch experience
 
@@ -28,35 +26,34 @@ Say goodbye to server deployment and manual updates with [Meilisearch Cloud](htt
 
 ## 📚 Documentation 
 
-Our [documentation website](https://www.meilisearch.com/docs) is hosted in a [public GitHub repository](https://github.com/meilisearch/documentation).
+Learn more about Meilisearch in our [documentation](https://www.meilisearch.com/docs?utm_campaign=oss&utm_source=github&utm_medium=organization). You can contribute via the [documentation repository](https://github.com/meilisearch/documentation).
 
 ## 🤝 Contributing 
 
 Hey! We're glad you're thinking about contributing to Meilisearch! Feel free to pick an issue labeled as `good first issue` and  ask any question you need. Some points might not be clear, and we are available to help you!
 
-Before creating your PR, we strongly encourage you to read the repository's corresponding `CONTRIBUTING.md` or otherwise the "Contributing" section of the `README.md`.
+Before creating your PR, we strongly encourage you to read the repository's corresponding `CONTRIBUTING.md` or the "Contributing" section of the `README.md`.
 
 ## 💡 Product: feedback & suggestions 
 
-See what's next on our [public roadmap](https://roadmap.meilisearch.com/), where you can submit your ideas and vote for the features you want. 
+See what's next on our [public roadmap](https://roadmap.meilisearch.com/?utm_campaign=oss&utm_source=github&utm_medium=organization), where you can submit your ideas and vote for the features you want. 
 
-You can also go to our [Product repository](https://github.com/meilisearch/product) and open a discussion about a feature and give your feedback. Feel free to participate in the current discussions. We are looking forward to reading your comments.
+You can also go to our [Product repository](https://github.com/meilisearch/product) and open a discussion about a feature and give your feedback. Please feel free to participate in the current talks. We are looking forward to reading your comments.
 
-Any suggestion or feedback is highly appreciated. Thank you so much for your support!
+Any suggestions or feedback is highly appreciated. Thank you so much for your support!
 
 
-## 🥰 Community & Developer Relations 
+## 🥰 Community & Support
 
-If you want to know more about how we handle Developer Relations at Meilisearch: our processes, activities, and plans, you can check our [devrel repo](https://github.com/meilisearch/devrel).
+Join our developers community on [Meilisearch Discord](https://discord.gg/meilisearch) to get support from our team and the community. We're also happy to see you share your projects or just talk about random stuff with other community members 😁
 
-We invite you to join our [Meilisearch Community Discord](https://discord.gg/meilisearch), where you can find support from our team and the community, but where you can also share your projects or just talk about random stuff with other members of the Meilisearch community 😁
+## 🖥 Examples
 
-## 🖥 Demos
-- [**Where2Watch:**](https://where2watch.meilisearch.com/?utm_campaign=oss&utm_source=github&utm_medium=meilisearch&utm_content=demo-link) Find the movie you will watch tonight through an up-to-date IMDb dataset, [featuring Hybrid Search](https://meilisearch.notion.site/Where2Watch-Noticeable-Queries-881f6270abef4452a94255462df740d7).
-- [**Millions of Musics:**](https://music.meilisearch.com/?utm_campaign=oss&utm_source=github&utm_medium=meilisearch&utm_content=demo-link) Search throught a 47 millions musics and artists dataset.
-- [**Tenant Tokens:**](https://tenant-token.meilisearch.com/?utm_campaign=oss&utm_source=github&utm_medium=meilisearch&utm_content=demo-link) Experience the search with restricted results that leverage the use of tenant tokens.
+- [**Where2Watch**](https://where2watch.meilisearch.com/?utm_campaign=oss&utm_source=github&utm_medium=organization) — An application to help you find streaming platforms to watch movies using [hybrid search](https://www.meilisearch.com/solutions/hybrid-search?utm_campaign=oss&utm_source=github&utm_medium=organization).
+- [**Ecommerce demo**](https://ecommerce.meilisearch.com/?utm_campaign=oss&utm_source=github&utm_medium=organization) — Ecommerce website using disjunctive facets, range and rating filtering, and pagination.
+- [**Songs**](https://music.meilisearch.com/?utm_campaign=oss&utm_source=github&utm_medium=organization) — Search through 47 million of songs.
 
-Check the list of all our demos [in the dedicated repository](https://github.com/meilisearch/demos).
+See the list of all our example apps in our [demos repository](https://github.com/meilisearch/demos).
 
 ## 📫 Get in touch!
 
