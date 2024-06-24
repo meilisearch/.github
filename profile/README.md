@@ -30,9 +30,9 @@ Learn more about Meilisearch in our [documentation](https://www.meilisearch.com/
 
 ## 🤝 Contributing 
 
-Hey! We're glad you're thinking about contributing to Meilisearch! Feel free to pick an issue labeled as `good first issue` and  ask any question you need. Some points might not be clear, and we are available to help you!
+Hey! We're glad you're thinking about contributing to Meilisearch! Feel free to pick an issue labeled as `good first issue` and  ask any question you need. We are available to help you!
 
-Before creating your PR, we strongly encourage you to read the repository's corresponding `CONTRIBUTING.md` or the "Contributing" section of the `README.md`.
+Before creating your PR, please read the repository's corresponding `CONTRIBUTING.md` or the "Contributing" section of the `README.md`.
 
 ## 💡 Product: feedback & suggestions 
 
@@ -40,24 +40,25 @@ See what's next on our [public roadmap](https://roadmap.meilisearch.com/?utm_cam
 
 You can also go to our [Product repository](https://github.com/meilisearch/product) and open a discussion about a feature and give your feedback. Please feel free to participate in the current talks. We are looking forward to reading your comments.
 
-Any suggestions or feedback is highly appreciated. Thank you so much for your support!
+We value all your suggestions and feedback. Thank you for helping us make Meilisearch better!
 
 
 ## 🥰 Community & Support
 
-Join our developers community on [Meilisearch Discord](https://discord.gg/meilisearch) to get support from our team and the community. We're also happy to see you share your projects or just talk about random stuff with other community members 😁
+Join our developers community on [Meilisearch Discord](https://discord.gg/meilisearch) to get support from our team and the community. We're also happy to see you share your projects or talk about random stuff with other community members 😁
 
 ## 🖥 Examples
 
-- [**Where2Watch**](https://where2watch.meilisearch.com/?utm_campaign=oss&utm_source=github&utm_medium=organization) — An application to help you find streaming platforms to watch movies using [hybrid search](https://www.meilisearch.com/solutions/hybrid-search?utm_campaign=oss&utm_source=github&utm_medium=organization).
-- [**Ecommerce demo**](https://ecommerce.meilisearch.com/?utm_campaign=oss&utm_source=github&utm_medium=organization) — Ecommerce website using disjunctive facets, range and rating filtering, and pagination.
+- [**Movies**](https://where2watch.meilisearch.com/?utm_campaign=oss&utm_source=github&utm_medium=organization) — An application to help you find streaming platforms to watch movies using [hybrid search](https://www.meilisearch.com/solutions/hybrid-search?utm_campaign=oss&utm_source=github&utm_medium=organization).
+- [**Ecommerce**](https://ecommerce.meilisearch.com/?utm_campaign=oss&utm_source=github&utm_medium=organization) — Ecommerce website using disjunctive [facets](https://www.meilisearch.com/docs/learn/fine_tuning_results/faceted_search?utm_campaign=oss&utm_source=github&utm_medium=organization), range and rating filtering, and pagination.
 - [**Songs**](https://music.meilisearch.com/?utm_campaign=oss&utm_source=github&utm_medium=organization) — Search through 47 million of songs.
+- [**SaaS**](https://saas.meilisearch.com/?utm_campaign=oss&utm_source=github&utm_medium=organization) — Search for contacts, deals, and companies in this [multi-tenant](https://www.meilisearch.com/docs/learn/security/multitenancy_tenant_tokens?utm_campaign=oss&utm_source=github&utm_medium=organization) CRM application.
 
 See the list of all our example apps in our [demos repository](https://github.com/meilisearch/demos).
 
 ## 📫 Get in touch!
 
-🗞 [Subscribe to our newsletter](https://meilisearch.us2.list-manage.com/subscribe?u=27870f7b71c908a8b359599fb&id=79582d828e) if you don't want to miss any updates! We promise we won't clutter your mailbox: we only send one edition every two months.
+🗞 [Subscribe to our newsletter](https://meilisearch.us2.list-manage.com/subscribe?u=27870f7b71c908a8b359599fb&id=79582d828e) to receive monthly updates about everything Meilisearch.
 
 💌 Want to make a suggestion or give feedback? Here are some of the channels where you can reach us:
 
