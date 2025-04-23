@@ -58,7 +58,7 @@ See the list of all our example apps in our [demos repository](https://github.co
 
 ## 📫 Get in touch!
 
-🗞 [Subscribe to our newsletter](https://meilisearch.us2.list-manage.com/subscribe?u=27870f7b71c908a8b359599fb&id=79582d828e) to receive monthly updates about everything Meilisearch.
+🗞 [Subscribe to our newsletter](https://share-eu1.hsforms.com/1LN5N0x_GQgq7ss7tXmSykwfg3aq) to receive monthly updates about everything Meilisearch.
 
 💌 Want to make a suggestion or give feedback? Here are some of the channels where you can reach us:
 
